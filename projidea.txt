@@ -1,0 +1,10 @@
+/**
+
+-snake
+-learn QT first then pick proj
+-read previous lessons, read previous code
+-learn new code polymorpohism, inheritance
+-start on proj immediately
+
+
+**/

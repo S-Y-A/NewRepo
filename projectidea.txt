@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+
+
+/**
+-snake
+-an idea after learning QT
+-brush up on previous code... youtube more
+
+
+
+**/
+
+
+
+int main(){
+
+
+
+
+
+
+return 0;
+}
